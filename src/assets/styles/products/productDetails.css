@@ -1,0 +1,22 @@
+.product__details__drawer .product__details__heading {
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 28px;
+  font-family: 'montserrat',sans-serif;
+}
+
+.product__details__drawer .product__title,
+.product__details__drawer .product__price {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  margin-top: 5px;
+}
+.product__details__drawer .product__description {
+  font-size: 14px;
+}
+.product__details__drawer .product__description,
+.product__details__drawer .product__title,
+.product__details__drawer .product__price {
+  font-family: "Montserrat", sans-serif;
+}
