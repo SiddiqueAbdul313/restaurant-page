@@ -1,6 +1,7 @@
 .subHeader__main {
   display: flex;
   justify-content: center;
+  align-items: center;
   color: #000;
   background-color: #fff;
   padding: 5px 0px;
